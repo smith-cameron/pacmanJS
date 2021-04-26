@@ -16,12 +16,12 @@ div.row div{
     background-color: blue;
 }
 .coin{
-    background-image: url('coin.gif');
+    background-image: url('img/coin.gif');
     background-repeat: no-repeat;
     background-position: center;
 }
 #pacman{
-    background-image: url('pacman.gif');
+    background-image: url('img/pacman.gif');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
